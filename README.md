@@ -91,7 +91,7 @@ Speciality of chemistry, 1999 – 2003
 ## Certificates / courses
 
 
-- Learning Bash Scripting (LinkedIn - Nov 2021)
+- [Learning Bash Scripting (LinkedIn - Nov 2021)](https://github.com/peterda84/cv/blob/gh-pages/CertificateOfCompletion_Learning%20Bash%20Scripting.pdf)
 
 - AWS Essential Training for Developers (LinkedIn - Aug 2021)
 
