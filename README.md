@@ -7,7 +7,7 @@ Contact: [Email](mailto:davidpeter84@gmail.com) / [LinkedIn](https://linkedin.co
 
 ## Experience
  
-### Quality Liaison Engineer at Aktrion Automotive
+### Quality Liaison Engineer @ Aktrion Automotive
  
 March 2015 – Present, Buenos Aires (Argentina)
  
@@ -23,14 +23,14 @@ On-site resident and liaison engineering supporting automakers and their supplie
 
 
 
-### Data Science specialization course at Coursera
+### Data Science specialization course @ Coursera
 May 2014 – Feb 2015, online
 
 - Improving technical skill set and learning in demand programming language (R) through Data Science specialization course offered by Johns Hopkins University, Baltimore. 
 
 
 
-### Production Engineer at Zoltek
+### Production Engineer @ Zoltek
 Aug 2011 – Dec 2013, Nyergesújfalu (Hungary)
 
 Within the acrylic fiber production area:
@@ -45,7 +45,7 @@ Within the acrylic fiber production area:
 
 
  
-### European volunteer (fixed-term contract) at Red Cross
+### European volunteer (fixed-term contract) @ Red Cross
 Mar 2010 – Dec 2010, Manresa (Spain)
 
 - Participating in and developing leisure activities in a non-formal environment (toy library) with children and young people (most of them in social risk), supporting employees of the organization. Trainings in a multicultural environment.
@@ -55,7 +55,7 @@ Mar 2010 – Dec 2010, Manresa (Spain)
 
 
 
-### Regulatory Affairs Coordinator at BorsodChem
+### Regulatory Affairs Coordinator @ BorsodChem
 Oct 2008 – Feb 2010, Kazincbarcika (Hungary)
 
 In order to register the products of the company and to meet the requirements of the regulation "REACH" of the European Community:
@@ -71,10 +71,10 @@ In order to register the products of the company and to meet the requirements of
 ## Education
 
 
-### Materials engineer at [University of Miskolc](https://www.uni-miskolc.hu/en) (Hungary)
+### Materials engineer @ [University of Miskolc](https://www.uni-miskolc.hu/en) (Hungary)
 Technology of Chemical Industry Unit Operations, 2003 – 2008
 
-### Graduate at [Földes Ferenc Secondary School](https://ffg.hu/) (Hungary)
+### Graduate @ [Földes Ferenc Secondary School](https://ffg.hu/) (Hungary)
 Speciality of chemistry, 1999 – 2003
 
 
@@ -82,9 +82,10 @@ Speciality of chemistry, 1999 – 2003
 
 - English: Professional working proficiency
 
+- Spanish: Professional working proficiency 
+
 - Hungarian: Native proficiency
 
-- Spanish: Professional working proficiency 
 
 
 ## Certificates / courses
