@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+ # Experience
+ 
+ ## Quality Liaison Engineer at Aktrion Automotive
+ 
+ March 2015 – Present, Buenos Aires (Argentina)
+ 
+ On-site resident and liaison engineering supporting automakers and their suppliers:
 
-You can use the [editor on GitHub](https://github.com/peterda84/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ - Representation of automotive suppliers within OEM sites
+ - Regular liaison with key OEM staff on site (Quality, Logistics, Production and Engineering personnel)
+ - Quality concern verification and evaluation, concern management support
+ - Coordination of campaigns and containment actions (e.g. supervision of quality inspection and rework procedures), detailed daily and weekly reports of activities, results and progress to client representatives
+- Co-responsible for business expansion in Argentina and Uruguay
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Company site](https://aktrion.com)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Data Science specialization course at Coursera
+May 2014 – Feb 2015, online
 
-# Header 1
-## Header 2
-### Header 3
+- Improving technical skill set and learning in demand programming language (R) through Data Science specialization course offered by Johns Hopkins University, Baltimore. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Production Engineer at Zoltek
+Aug 2011 – Dec 2013, Nyergesújfalu (Hungary)
 
-[Link](url) and ![Image](src)
-```
+Within the acrylic fiber production area:
+- Gathering information of the production line, statistical analysis of data of production processes and quality control records, preparation of reports
+- Participation in project teams to optimize production processes and to reduce costs (energy / waste): planning, preparation, elaboration, evaluation and follow up of projects
+- Preparation and evaluation of laboratory quality control tests under ISO 9001
+- Analysis of procedures, identifying opportunities for improvement, translation of technical documentation from Spanish into Hungarian
+- Daily monitoring of process and quality parameters, identifying deviations, preparation and follow up of key performance indicators (KPI)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peterda84/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Zoltek](https://zoltek.com) is a materials company that engages in the development, manufacture, and marketing of commercial carbon fiber for various applications. 
