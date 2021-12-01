@@ -2,8 +2,9 @@
 
 *Quality Engineer interested in Linux, Networking, Cloud & Security*
 
-Contact: [Email](mailto:davidpeter84@gmail.com) / [LinkedIn](https://linkedin.com/in/davidpeter84)
+*Contact: [Email](mailto:davidpeter84@gmail.com) / [LinkedIn](https://linkedin.com/in/davidpeter84)*
 
+<br/>
 
 ## Experience
  
@@ -67,6 +68,7 @@ In order to register the products of the company and to meet the requirements of
 
 [BorsodChem](https://borsodchem.com) is one of the leading producers of MDI, TDI, PVC resin and chlor-alkali chemicals in Europe.
 
+<br/>
 
 ## Education
 
@@ -77,6 +79,7 @@ Technology of Chemical Industry Unit Operations, 2003 – 2008
 ### Graduate @ [Földes Ferenc Secondary School](https://ffg.hu/) (Hungary)
 Speciality of chemistry, 1999 – 2003
 
+<br/>
 
 ## Languages
 
@@ -87,8 +90,9 @@ Speciality of chemistry, 1999 – 2003
 - Hungarian: Native proficiency
 
 
+<br/>
 
-## Certificates / courses
+## Certificates / Courses
 
 
 - [Learning Bash Scripting (LinkedIn - Nov 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_Learning%20Bash%20Scripting.pdf)
@@ -101,7 +105,7 @@ Speciality of chemistry, 1999 – 2003
 
 - [Getting started with Linux System Administration (Pluralsight - Feb 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/certificate_GettingStartedWithLinuxSystemAdministration.pdf)
 
-... Full list on [this page](https://github.com/peterda84/cv/tree/gh-pages/certificates)
+... Full list on [this page](https://github.com/peterda84/cv/tree/gh-pages/certificates).
 
 <br/>
 
