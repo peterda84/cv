@@ -103,6 +103,7 @@ Speciality of chemistry, 1999 – 2003
 
 ... Full list on [this page](https://github.com/peterda84/cv/tree/gh-pages/certificates)
 
+<br/>
+*This document was created with Github Markdown*
 
-This document was created with Github Markdown
-You can find the latest version on this [link](https://peterda84.github.io/cv/)
+*You can find the latest version on this [link](https://peterda84.github.io/cv/)*
