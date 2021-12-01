@@ -35,6 +35,7 @@ May 2014 – Feb 2015, online
 Aug 2011 – Dec 2013, Nyergesújfalu (Hungary)
 
 Within the acrylic fiber production area:
+
 - Gathering information of the production line, statistical analysis of data of production processes and quality control records, preparation of reports
 - Participation in project teams to optimize production processes and to reduce costs (energy / waste): planning, preparation, elaboration, evaluation and follow up of projects
 - Preparation and evaluation of laboratory quality control tests under ISO 9001
@@ -60,6 +61,7 @@ Mar 2010 – Dec 2010, Manresa (Spain)
 Oct 2008 – Feb 2010, Kazincbarcika (Hungary)
 
 In order to register the products of the company and to meet the requirements of the regulation "REACH" of the European Community:
+
 - Collection of information and follow up changes in chemical safety laws
 - Provide support to customers and suppliers relating to regulation clarifying queries
 - Compilation of documentation for the registration process collaborating with the area of Production and Quality
