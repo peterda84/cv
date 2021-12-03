@@ -4,6 +4,26 @@
 
 *Contact: [Email](mailto:davidpeter84@gmail.com) / [LinkedIn](https://linkedin.com/in/davidpeter84)*
 
+
+<br/>
+
+## Tech-related courses / certificates
+
+
+- [Learning Bash Scripting (LinkedIn - Nov 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_Learning%20Bash%20Scripting.pdf)
+
+- [AWS Essential Training for Developers (LinkedIn - Aug 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_AWS%20Essential%20Training%20for%20Developers.pdf)
+
+- [Windows Server 2019: Installation and Configuration (LinkedIn - Aug 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_Windows%20Server%202019%20Installation%20and%20Configuration.pdf)
+
+- [Learning Network Troubleshooting (LinkedIn - Jun 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_Learning%20Network%20Troubleshooting.pdf)
+
+- [Getting started with Linux System Administration (Pluralsight - Feb 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/certificate_GettingStartedWithLinuxSystemAdministration.pdf)
+
+... Full list on [this page](https://github.com/peterda84/cv/tree/gh-pages/certificates).
+
+
+
 <br/>
 
 ## Experience
@@ -92,22 +112,6 @@ Speciality of chemistry, 1999 – 2003
 - Hungarian: Native proficiency
 
 
-<br/>
-
-## Certificates / Courses
-
-
-- [Learning Bash Scripting (LinkedIn - Nov 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_Learning%20Bash%20Scripting.pdf)
-
-- [AWS Essential Training for Developers (LinkedIn - Aug 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_AWS%20Essential%20Training%20for%20Developers.pdf)
-
-- [Windows Server 2019: Installation and Configuration (LinkedIn - Aug 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_Windows%20Server%202019%20Installation%20and%20Configuration.pdf)
-
-- [Learning Network Troubleshooting (LinkedIn - Jun 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/CertificateOfCompletion_Learning%20Network%20Troubleshooting.pdf)
-
-- [Getting started with Linux System Administration (Pluralsight - Feb 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/certificate_GettingStartedWithLinuxSystemAdministration.pdf)
-
-... Full list on [this page](https://github.com/peterda84/cv/tree/gh-pages/certificates).
 
 <br/>
 
