@@ -42,7 +42,6 @@ On-site resident and liaison engineering supporting automakers and their supplie
 - Coordination of campaigns and containment actions (e.g. supervision of quality inspection and rework procedures), detailed daily and weekly reports of activities, results and progress to client representatives
 - Co-responsible for business expansion in Argentina and Uruguay
 
-[Aktrion](https://aktrion.com) provides fully managed quality & engineering solutions to multi sector OEM’s & their supply chain.
 
 
 
@@ -56,15 +55,12 @@ May 2014 – Feb 2015, online
 ### Production Engineer @ Zoltek
 Aug 2011 – Dec 2013, Nyergesújfalu (Hungary)
 
-Within the acrylic fiber production area:
 
 - Gathering information of the production line, statistical analysis of data of production processes and quality control records, preparation of reports
 - Participation in project teams to optimize production processes and to reduce costs (energy / waste): planning, preparation, elaboration, evaluation and follow up of projects
-- Preparation and evaluation of laboratory quality control tests under ISO 9001
 - Analysis of procedures, identifying opportunities for improvement, translation of technical documentation from Spanish into Hungarian
 - Daily monitoring of process and quality parameters, identifying deviations, preparation and follow up of key performance indicators (KPI)
 
-[Zoltek](https://zoltek.com) is a materials company that engages in the development, manufacture, and marketing of commercial carbon fiber for various applications.
 
 
 
@@ -73,8 +69,6 @@ Within the acrylic fiber production area:
 Mar 2010 – Dec 2010, Manresa (Spain)
 
 - Participating in and developing leisure activities in a non-formal environment (toy library) with children and young people (most of them in social risk), supporting employees of the organization. Trainings in a multicultural environment.
-
-[European Voluntary Service (EVS)](https://europa.eu/youth/go-abroad/volunteering_en) is the European Commission's project that allows a young person (18–30 years) to become a volunteer in another country for a specified period, normally between 2–12 months. 
 
 
 
@@ -88,9 +82,6 @@ In order to register the products of the company and to meet the requirements of
 - Provide support to customers and suppliers relating to regulation clarifying queries
 - Compilation of documentation for the registration process collaborating with the area of Production and Quality
 - Evaluation and updating of material safety data sheets (MSDSs) of the substances in accordance with the regulation
-- Participation in teleconferences with the same industry companies to exchange information and promote registration
-
-[BorsodChem](https://borsodchem.com) is one of the leading producers of MDI, TDI, PVC resin and chlor-alkali chemicals in Europe.
 
 <br/>
 
@@ -99,9 +90,6 @@ In order to register the products of the company and to meet the requirements of
 
 ### Materials engineer @ [University of Miskolc](https://www.uni-miskolc.hu/en) (Hungary)
 Technology of Chemical Industry Unit Operations, 2003 – 2008
-
-### Graduate @ [Földes Ferenc Secondary School](https://ffg.hu/) (Hungary)
-Speciality of chemistry, 1999 – 2003
 
 <br/>
 
