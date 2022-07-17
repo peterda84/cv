@@ -12,15 +12,17 @@
 
 ## Tech-related courses / certificates
 
-- [AWS Essential Training for Administrators (LinkedIn - Jun 2022)](https://www.linkedin.com/learning/certificates/9e5001bde963f6a53ee842b5a1582cfc8066a65a5c6481aae2c0aef73a4a2461?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
+- [AWS Essential Training for Administrators (Jun 2022)](https://www.linkedin.com/learning/certificates/9e5001bde963f6a53ee842b5a1582cfc8066a65a5c6481aae2c0aef73a4a2461?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
 
-- [Learning Bash Scripting (LinkedIn - Nov 2021)](https://www.linkedin.com/learning/certificates/57ff00775769f16989ab69950df7cddb094020a2b893879ae2bfd1f4345d0f11?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
+- [Learning Bash Scripting (Nov 2021)](https://www.linkedin.com/learning/certificates/57ff00775769f16989ab69950df7cddb094020a2b893879ae2bfd1f4345d0f11?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
 
-- [Windows Server 2019: Installation and Configuration (LinkedIn - Aug 2021)](https://www.linkedin.com/learning/certificates/d0d2ec01536c708e16cdf58d0b75d0a8c29c6cc2f983ac09b244b810ba6fcbb5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
+- [System Administration: Backup and Recovery (Oct 2021)](https://www.linkedin.com/learning/certificates/ad4270bd4b5aab696d823c305b317e528980aadef1540e1ac0a2961f099374f0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
 
-- [Learning Network Troubleshooting (LinkedIn - Jun 2021)](https://www.linkedin.com/learning/certificates/9ef785310e0a8bef6ea8c35d402c6444cfc100f7260e28cfa54498f33bc97857?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
+- [Windows Server 2019: Installation and Configuration (Aug 2021)](https://www.linkedin.com/learning/certificates/d0d2ec01536c708e16cdf58d0b75d0a8c29c6cc2f983ac09b244b810ba6fcbb5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
 
-- [Getting started with Linux System Administration (Pluralsight - Feb 2021)](https://e.pcloud.link/publink/show?code=XZkgHkZWmqPiqxDbj7AGpI9nI4vGbuRehSX)
+- [Learning Network Troubleshooting (Jun 2021)](https://www.linkedin.com/learning/certificates/9ef785310e0a8bef6ea8c35d402c6444cfc100f7260e28cfa54498f33bc97857?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bdurac9GLS8iZd1jPvcTozg%3D%3D)
+
+- [Getting started with Linux System Administration (Feb 2021)](https://e.pcloud.link/publink/show?code=XZkgHkZWmqPiqxDbj7AGpI9nI4vGbuRehSX)
 
 ... Full list on [LinkedIn](https://www.linkedin.com/in/davidpeter84/).
 
