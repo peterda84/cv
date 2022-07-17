@@ -5,7 +5,7 @@
 *Contact:*
 - [Email: dpeter@tuta.io](mailto:dpeter@tuta.io)
 - Mobile: +54 911 2275 1620
-- [Full bio on LinkedIn](https://linkedin.com/in/davidpeter84)
+- [LinkedIn](https://linkedin.com/in/davidpeter84)
 
 
 <br/>
@@ -23,7 +23,7 @@
 
 - [Getting started with Linux System Administration (Pluralsight - Feb 2021)](https://github.com/peterda84/cv/blob/gh-pages/certificates/certificate_GettingStartedWithLinuxSystemAdministration.pdf)
 
-... Full list on [this page](https://github.com/peterda84/cv/tree/gh-pages/certificates).
+... Full list on [LinkedIn](https://www.linkedin.com/in/davidpeter84/).
 
 
 
