@@ -1,8 +1,11 @@
 # David Peter
 
-*Quality Engineer interested in Linux, Networking, Cloud & Security*
+*Self-taught Linux / Networking / Cloud practitioner*
 
-*Contact: [Email](mailto:davidpeter84@gmail.com) / [LinkedIn](https://linkedin.com/in/davidpeter84)*
+*Contact:*
+[email: dpeter@tuta.io](mailto:dpeter@tuta.io)
+Mobile: +54 911 2275 1620
+[Full bio on LinkedIn](https://linkedin.com/in/davidpeter84)
 
 
 <br/>
