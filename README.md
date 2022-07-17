@@ -3,9 +3,9 @@
 *Self-taught Linux / Networking / Cloud practitioner*
 
 *Contact:*
-[email: dpeter@tuta.io](mailto:dpeter@tuta.io)
-Mobile: +54 911 2275 1620
-[Full bio on LinkedIn](https://linkedin.com/in/davidpeter84)
+- [Email: dpeter@tuta.io](mailto:dpeter@tuta.io)
+- Mobile: +54 911 2275 1620
+- [Full bio on LinkedIn](https://linkedin.com/in/davidpeter84)
 
 
 <br/>
